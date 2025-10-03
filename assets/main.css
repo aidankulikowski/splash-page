@@ -53,8 +53,8 @@ Grid
     box-sizing:border-box;
 }
 body{
-    background-color:black;
-    background-image:url("img/SPCOrganFacade.webp");
+    background-color: #885632;
+    background-image:url("img/StPaulCrossOrganFacade.webp");
     background-repeat: no-repeat;
     background-size: 100% auto;
     background-position: top;
@@ -93,14 +93,14 @@ Typography
 h1, 
 p{
     color: #ffffff;
-    font-family: sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     margin-bottom: 22px;
 }
 h1{
     text-shadow: 2px 2px #000000;
     float: left;
     font-size: 2.5em;
-    font-family: "Crete Round", sans-serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 p{
     clear: both;
